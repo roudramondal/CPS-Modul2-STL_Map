@@ -33,7 +33,7 @@ void solve() {
     v[4] = 1032;
     for (pair<int,int>a:v)
     {
-      cout << a.first << " = " << a.second << nl;
+      cout << a.first << " = " << a.second << nl;// key is always sorted 
     }
 }
 
