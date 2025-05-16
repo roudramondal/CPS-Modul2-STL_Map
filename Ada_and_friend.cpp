@@ -34,7 +34,7 @@ void solve() {
       string name;
       long long value;
       cin >> name >> value;
-      sum[name] += value;
+      sum[name] += value;// add two value
     }
     vector<long long> v;
     for (pair<string,long long> a : sum)
