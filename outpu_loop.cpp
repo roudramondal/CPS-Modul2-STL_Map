@@ -38,7 +38,7 @@ void solve() {
 }
 
 int main() {
-    fast_io;
+    fast_io;// fast taking input
     int t ;
     cin >> t;
     while (t--) {
