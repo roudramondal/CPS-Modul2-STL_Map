@@ -27,7 +27,7 @@ const ld PI = acos(-1.0);
 void solve() {
     // Your code here
     map<int, int> v;
-    v[1] = 10;
+    v[1] = 10;// value insert that's it
     v[2] = 15;
     v[3] = 87;
     v[3] += 20;
