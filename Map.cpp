@@ -32,7 +32,7 @@ void solve() {
 }
 
 int main() {
-    fast_io;
+    fast_io;// for fast input
     int t ;
     cin >> t;
     while (t--) {
