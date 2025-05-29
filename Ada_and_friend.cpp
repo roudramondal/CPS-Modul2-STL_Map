@@ -27,7 +27,7 @@ const ld PI = acos(-1.0);
 void solve() {
     // Your code here
     int n, k;
-    cin >> n >> k;
+    cin >> n >> k;//taking input 
     map<string, long long> sum;
     for (int i = 0; i < n;i++)
     {
