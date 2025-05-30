@@ -26,7 +26,8 @@ const ld PI = acos(-1.0);
 #define fast_io ios::sync_with_stdio(false); cin.tie(NULL);
 void solve() {
     // Your code here
-    map<string, int> v;
+    map<string, int> v;// map value
+   
     v["Roudra"] = 1055;
     v["pri"] = 1056;
     v["find"];
